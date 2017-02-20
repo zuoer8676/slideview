@@ -9,6 +9,8 @@ import android.widget.SeekBar;
 
 public class Slider extends SeekBar {
 
+
+
     private Drawable thumb;
     private SlideView.OnSlideCompleteListener listener;
     private SlideView slideView;
